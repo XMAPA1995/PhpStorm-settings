@@ -1,0 +1,36 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.25" />
+  <metaInfo>
+    <property name="created">2017-06-27T12:33:48</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2017.1.4.0.0</property>
+    <property name="modified">2017-08-23T16:52:03</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <attributes>
+    <option name="BASH.INTERNAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="c57633" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="BASH.VAR_DEF">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="BASH.VAR_USE_COMPOSED">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
+    <option name="BREAKPOINT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3a1a22" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

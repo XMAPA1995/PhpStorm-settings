@@ -1,0 +1,13 @@
+<templateSet group="PHP">
+  <template name="wd" value="watchdog(&quot;WATCHWOG&quot;, '&lt;pre&gt;' . print_r( $END$, true) . '&lt;/pre&gt;'); " description="watchdog" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Comment" value="false" />
+    </context>
+  </template>
+  <template name="xdb" value="$a = 1;" description="xdebug" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
