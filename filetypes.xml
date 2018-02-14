@@ -8,9 +8,6 @@
       <mapping ext="install" type="PHP" />
       <mapping ext="theme" type="PHP" />
       <mapping pattern="ads" type="PLAIN_TEXT" />
-      <mapping ext="eot" type="PLAIN_TEXT" />
-      <mapping ext="ttf" type="PLAIN_TEXT" />
-      <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="inc:" type="Perl" />
     </extensionMap>
   </component>
