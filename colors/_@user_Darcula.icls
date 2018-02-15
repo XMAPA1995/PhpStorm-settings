@@ -3,11 +3,12 @@
     <property name="created">2017-06-27T12:33:48</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2018-02-14T19:13:18</property>
+    <property name="modified">2018-02-15T12:23:11</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
   <colors>
-    <option name="CARET_ROW_COLOR" value="112a3b" />
+    <option name="CARET_ROW_COLOR" value="212329" />
     <option name="FILESTATUS_ADDED" value="c3e88d" />
     <option name="FILESTATUS_DELETED" value="808080" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
@@ -22,7 +23,7 @@
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_addedOutside" value="c3e88d" />
     <option name="FILESTATUS_modifiedOutside" value="82aaff" />
-    <option name="INDENT_GUIDE" value="370500" />
+    <option name="INDENT_GUIDE" value="235477" />
     <option name="LINE_NUMBERS_COLOR" value="9b979c" />
     <option name="RIGHT_MARGIN_COLOR" value="4d0007" />
     <option name="VISUAL_INDENT_GUIDE" value="3c1a1d" />
