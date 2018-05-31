@@ -1,4 +1,7 @@
 <keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="Tool_External Tools_phpcbf">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
   <action id="XDebugger.CopyName">
     <mouse-shortcut keystroke="button1 doubleClick" />
   </action>
