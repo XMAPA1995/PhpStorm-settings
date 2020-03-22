@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9a408d04-6aa4-4ecb-888d-987504bb09ac" name="ulftest" url="http://ulf.webbrain.space/">
+        <fileTransfer host="31.42.188.104" port="22" rootFolder="/home/brain/www/ulf.webbrain.space/web" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
